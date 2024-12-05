@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+
+<title>Enmarcando tablas en el modelo</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<style type="text/css">
+        body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+        }
+</style>
+
+<body>
+
+    <table width="100%" height="100%" border="0" bordercolor=""><!--DWLayoutTable-->
+      <tr>
+      <td width="100%" height="70" valign="top" bgcolor="#9999FF" >
+      <p><h1><center>
+        <font color="#000000">Los Gatos.</font>
+      </center> </h1></p></td>
+      </tr>
+      <tr>
+       <td height="163" valign="top">
+    <table width="100%" border="0" bordercolor="">
+      <!--DWLayoutTable-->
+       <tr>
+       <td width="129" height="21" valign="top" bgcolor="#FFFFFF"> 
+       <ul>
+       <h3><a name="indice"></a></h3>
+       <li><a href="#uno">Gatos</a></li>
+       <li><a href="#dos">Razas de gatos</a> </li>
+       <li><a href="#tres">Razas de gatos extrañas</a> </li>
+       <li><a href="Gatos videos.html">Videos Tiernos</a>
+       </li>
+    </ul>
+                  
+                 
+    <p>;</p></td>
+       
+        <td width="196" valign="top" >
+         <h3>&iquest;Que es un gato?</h3>
+         <p>Los<strong>El gato (Felis silvestris catus) es un animal doméstico que parece remontarse alrededor de la civilización Egipcia. Durante esa época eran considerados animales sagrados para los dioses, y en consecuencia eran adorados por todos en Egipto. Desde entonces han acompañado al ser humano y se ha convertido en un miembro más de muchas familias actuales por todo el mundo.
+         </p>
+         <p> Son similares a otros felinos con un cuerpo fuerte, flexible, de reflejos rápidos, garras retráctiles afiladas y dientes adaptados para matar presas pequeñas. Podemos encontrar más de 70 razas de gatos reconocidas.
+          </p>
+         <p>El gato doméstico, al igual que los humanos, ha ido aumento su esperanza de vida conforme la medicina ha evolucionado. En los años 80 el gato vivía unos 7 años y en 1995 aumentó hasta los 9,4 años y en la actualidad pueden llegar a vivir hasta unos 15 años. No obstante, algunos gatos pueden vivir más de 30 años, como el gato llamado Creme Puff que murió a una edad verificada de 38 años.</p>
+         <p> Son muy semejantes a otros felinos con un tamaño entre 23 – 25 cm de altura y unos 46 cm de longitud (sólo cabeza y cuerpo) con unos 30 cm de cola, pesando entre los 4 y 5 kg, algunas razas han llegado a registros de unos 11 kg y los gatos callejeros que tienen un acceso más limitado a la comida que los domésticos suelen ser más ligeros llegando a encontrarse gatos adultos, de menos de 2 kg. El récord mundial del gato más pesado es de 21 kg.</p>
+         <p> Poseen 13 vertebras torácicas (una más que los humanos), 7 vértebras lumbares (5 para los humanos), 3 vértebras sacras (5 para los humanos) y un número variante de vértebras caudales situadas en la cola, que no tienen los humanos. Estas vertebras adicionales le permite al gato una gran movilidad y flexibilidad que se complementa con que sus patas delanteras están unidas al hombro por los huesos de la clavícula que flotan libremente, lo que les facilita pasar todo su cuerpo por cualquier espacio donde pase su cabeza.
+         </p>
+         <center>
+           <img src="gatos.jfif" alt="Fotos" width="412" height="272">
+         <img class="imagen" id="gatos" src="fts de gatos.jfif"/>
+         </p>
+   
+       <h3><a name="dos">Razas de gatos</a></h3>
+         <p>Las razas de gatos orientales, generalmente fueron evolucionado en climas más cálidos, donde era importante regular la temperatura corporal y perder calor, más que conservarlo, de ahí su cuerpo estilizados, aumentando su superficie corporal con relación a su tamaño.</p>
+         <p>¿Cómo? con grandes orejas, cabeza alargada, largas patas y cuerpos delgados, para eliminar el exceso de calor.
+           También en occidente se han creado nuevas razas de gatos que imitan el estilo oriental, como el gato oriental de pelo corto, que parte del siamés y ocurrió cuando desaparecieron los siameses de pelo corto «no pointed» importados de Asia.
+         </p>
+         <img src="razas.jpg" width="619" height="493" class="imagen" id="Razas de gatos"/>
+         <p>Click aqui para <a href="#indice">volver al indice</a>
+
+         </p>
+     
+     <h3><a name="tres">Razas de gatos extrañas</a></h3>
+         <p>Según varios estudios, los gatos llevan conviviendo con los humanos desde hace 9.500 años ocupando un lugar importante en las diferentes culturas. Los egipcios los idolatraron durante años y los japoneses siempre les han considerado animales portadores de buena suerte.</p>
+         <p> Actualmente se conocen más de 50 razas distintas de gatos y gran parte de ellas no son fruto de la naturaleza. Hoy desde nuestro blog para mascotas, queremos presentarte cuatro razas de gatos muy peculiares
+         </p>
+         <img src="raza rara.jpg" width="619" height="493" class="imagen" id="Razas de gatos extrañas"/>
+         <p>Click aqui para <a href="#indice">volver al indice</a>
+</p>
+         <p>Fold Escocés: Orejitas pequeñas y dobladas.</p>
+         <img src="fold escoces.jpg" width="619" height="493" class="imagen" id="Razas de gatos extrañas"/>
+         <p>Click aqui para <a href="#indice">volver al indice</a>
+</p>
+         <p> Manx: El gato sin cola.</p>
+         <img src="Manx.jpg" width="619" height="493" class="imagen" id="Razas de gatos extrañas"/>
+         <p>Click aqui para <a href="#indice">volver al indice</a>
+</p>
+         <p>Devon Rex: Singular, noble y juguetón.</p>
+         <img src="Devon Rex.jpg" width="619" height="493" class="imagen" id="Razas de gatos extrañas"/>
+         <p>Click aqui para <a href="#indice">volver al indice</a>
+</p>
+         <p> Oriental de pelo corto: " El galgo de los gatos"</p>
+         <img src="Oriental pelo corto.jpg" width="619" height="493" class="imagen" id="Razas de gatos extrañas"/>
+         <p>Click aqui para <a href="#indice">volver al indice</a>
+</p>
+     
+        </tr>
+  </table>
+  
+  
+  <script>
+  function cambiarImagen (elemento,imagen_1, imagen_2){/*--Funciï¿½n para cambiar imagen--*/
+  var imagen = document.getElementById(elemento);/*--Cuando el mouse esta sobrela imagen--*/
+  imagen.addEventListener("mouseover", function(){imagen.src = imagen_2;});/*-- mouse esta fuera de la imagen--*/
+  imagen.addEventListener("mouseout", function(){imagen.src = imagen_1;});
+	}/*--Llamadas a la funciï¿½n--*/
+  cambiarImagen('romero','romero.jpg','romero-1.jpg');
+  cambiarImagen('abedulhojas','abedulhojas.jpg','abedulhojas-1.jpg');
+  
+  
+  </script>
+  
+  
+</body>
+</html>
